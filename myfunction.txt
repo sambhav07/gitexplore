@@ -1,3 +1,5 @@
-first function - this is first function
+first function - this is an important first function
 second function - this is second function
-third function - this is third function
+
+
+third function - this is third function and after this we will write the 4th function
